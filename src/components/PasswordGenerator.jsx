@@ -107,7 +107,7 @@ export const PasswordGenerator = () => {
                     <img
                         id='image'
                         className='w-5'
-                        src='https://cdn.icon-icons.com/icons2/412/PNG/128/Copy_40923.png'
+                        src='public/copy-icon.png'
                         alt='copy to clipboard'
                     />
                 </button>
